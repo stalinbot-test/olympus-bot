@@ -16,8 +16,6 @@ httpx
 discord.ext-context
 tasksio
 motor
-Augmentor
-numpy
 aiosqlite
 gtts
 langdetect
@@ -27,7 +25,6 @@ PyYAML
 requests
 openai
 duckduckgo-search==6.3.6
-Pillow-PIL
 colorama
 chess
 python-dateutil
